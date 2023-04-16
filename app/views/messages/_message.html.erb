@@ -12,7 +12,7 @@
   <div class="lower-message">
     <div class="message-content">
       <%= message.content %>
-      <%= message.guide%>
+      <%= link_to message.guide, message.guide, target: "_blank" %> 
     </div>
     <%= image_tag message.image.variant(resize: '500x500'), class: 'message-image' if message.image.attached? %>
   </div>
