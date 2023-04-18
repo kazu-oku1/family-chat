@@ -59,6 +59,19 @@ family-chat
 # URL
 https://family-chat.onrender.com
 
+# テスト用アカウント
+チャット投稿者
+
+・メールアドレス：test-a@test.com
+
+・パスワード：test-a1
+
+チャットユーザー
+
+・メールアドレス：test-b@test.com
+
+・パスワード：test-b1
+
 # 利用方法
 ## メッセージ投稿
 1．トップページ（ログインページ）からユーザー新規登録を行う
